@@ -1,5 +1,8 @@
-# CaponVideos
-Put captions from text file to videos
+TikTokShop Videos
+Run this in termianl to use(Once folders and Products set)
+py -3.11 ttShop.py
 
-Run this in termianl to use(Once folders and captions set up)
-py -3.11 caption_overlay.py
+
+MobileApps Videos
+Run this in termianl to use(Once folders and Products set)
+py -3.11 mobileApp.py

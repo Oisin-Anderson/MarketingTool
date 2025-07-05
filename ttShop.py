@@ -7,9 +7,9 @@ import re
 
 # === CONFIG ===
 captions_file = "captions.txt"
-input_folder = "input_videos"
-output_folder = "output_videos"
-product_folder = "product_videos"
+input_folder = "ugcVids"
+output_folder = "ttShop_Output"
+product_folder = "ttShop_Products"
 font_size = 52
 font_color = "white"
 bg_color = "transparent"  # Transparent background
