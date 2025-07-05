@@ -1,6 +1,7 @@
 # Output folders
 mobileApp_Output/
 ttShop_Output/
+ugcVids/
 
 # Python
 __pycache__/
